@@ -1,7 +1,7 @@
 # **Data Analysis and Prediction of Resale Flat Prices with Regression**
 <br>
 <br>
-This is a self-continuation of data analysis project as part of my assignment
+This is a self-continuation of data analysis project as part of my assignment. Data used is "RESALE.xlsx" while the codes for data cleaning, analysis, visualisation, regression modelling and result analysis is contained within the file "Regression and Data Analysis of Flat Resale Price.ipynb".
 <br>
 <br>
 
@@ -24,8 +24,6 @@ The high level overview is to find out the distribution of the different flat ty
 <br>
 
 ## **Data** 
-<br>
-The data used is located as file named "RESALE.xlsx"
 <br>
 
 | Column Name            | Measurement Level | Description |
