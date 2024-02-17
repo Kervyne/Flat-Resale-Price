@@ -25,6 +25,8 @@ The high level overview is to find out the distribution of the different flat ty
 
 ## **Data** 
 <br>
+The data used is located as file named "RESALE.xlsx"
+<br>
 
 | Column Name            | Measurement Level | Description |
 |------------------------|-------------------|-------------|
