@@ -25,6 +25,9 @@ The high level overview is to find out the distribution of the different flat ty
 
 ## **Data** 
 <br>
+The data size is 183905 rows by 18 columns prior to data cleaning
+<br> <br>
+
 
 | Column Name            | Measurement Level | Description |
 |------------------------|-------------------|-------------|
